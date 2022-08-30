@@ -77,7 +77,7 @@ echo $auto[1][0];?>
     <? echo $str4 . '<br>'; ?>
 </div>
 
-
+ggg
 <!--Таблиці-->
 <table border = "1" cellpadding = "15" style = "border-collapse: collapse"; width="50%";>
     <tr style="background-color: silver">
