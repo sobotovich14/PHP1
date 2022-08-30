@@ -1,0 +1,13 @@
+.int{
+    color: red;
+}
+
+.float{
+    color: green;
+    margin: 10px;
+}
+
+.text {
+    font-size: 50px;
+}
+
