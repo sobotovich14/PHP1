@@ -10,7 +10,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="цифри, цілі числа, числа з крапкою, змінні">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <title>My first project</title>
 </head>
 <body>
@@ -77,7 +77,7 @@ echo $auto[1][0];?>
     <? echo $str4 . '<br>'; ?>
 </div>
 
-ggg
+
 <!--Таблиці-->
 <table border = "1" cellpadding = "15" style = "border-collapse: collapse"; width="50%";>
     <tr style="background-color: silver">
