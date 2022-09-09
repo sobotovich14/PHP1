@@ -1,5 +1,5 @@
 <?php
-$a = $_POST['choose'];
+$a = $_GET['choose'];
 $b = rand (0,10);
 
 if ($a == $b){

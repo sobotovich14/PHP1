@@ -113,7 +113,7 @@
         ?>
 
         <!--Додаткове завдання-->
-        <form id="form1" name="form1" method="post" action="game.php">
+        <form id="form1" name="form1" method="get" action="game.php">
             <label>Число
                 <select name="choose" id="choose">
                     <option value="0">0</option>
@@ -133,6 +133,18 @@
                 <input type="submit" name="submit" id="submit" value="Играть!" />
             </label>
         <form/>
+
+        <!--Форми метод $_POST-->
+        <div style="text-align: center">
+            <form name="form 2" action="post.php" method="post">
+                <input type="text" name="username" placeholder=Введіть ім'я"> <br>
+                <input type="email" name="email" placeholder="Введіть email"> <br>
+                <input type="password" name="password" placeholder="Введіть пароль"> <br>
+                <textarea name="message" placeholder="Введіть повідомлення"></textarea> <br>
+                <input type="submit" value="Відправити">
+            </form>
+        </div>
+
  </body>
 </html>
 
