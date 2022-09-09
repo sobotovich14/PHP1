@@ -106,9 +106,9 @@
             $rand = rand (0,5);
             echo $rand . '<br>';
             if ($rand == 5)
-                echo ("Ви виграли!") .'<br>';
+                echo "Ви виграли!" .'<br>';
              else
-                echo ("Ви програли :(") .'<br>';
+                echo "Ви програли :(" .'<br>';
 
         ?>
     </body>
