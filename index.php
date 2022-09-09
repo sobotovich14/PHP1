@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="style.css">
     <title>My first project</title>
 </head>
-    <body>
+ <body>
         <?php
 
         // Змінні
@@ -133,9 +133,7 @@
                 <input type="submit" name="submit" id="submit" value="Играть!" />
             </label>
         <form/>
-
-    </body>
-
+ </body>
 </html>
 
 
