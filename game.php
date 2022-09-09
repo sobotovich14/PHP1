@@ -1,9 +1,9 @@
 <?php
-$POST = $_POST['choose'];
-$rand = rand (0,10);
+$a = $_POST['choose'];
+$b = rand (0,10);
 
-if ($rand == $POST)
-    echo "Ви вгадали";
-else
-    echo "Ви не вгадали";
-echo $rand;
+if ($a == $b){
+    echo ("Ви вгадали" .$b);
+} else{
+    echo ("Ви не вгадали" .$b);
+}

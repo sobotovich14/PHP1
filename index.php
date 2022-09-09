@@ -131,7 +131,7 @@
             </label>
             <label>
                 <input type="submit" name="submit" id="submit" value="Играть!" />
-            </label>
+         <form/>   </label>
     </body>
 
 </html>
