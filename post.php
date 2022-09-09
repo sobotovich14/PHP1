@@ -1,2 +1,2 @@
 <?php
-    print_r($_POST);
+    $name = $_POST['username'];
