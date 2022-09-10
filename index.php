@@ -113,7 +113,7 @@
         ?>
 
         <!--Додаткове завдання-->
-        <form id="form1" name="form1" method="get" action="game.php">
+        <!--<form id="form1" name="form1" method="post" action="game.php">
             <label>Число
                 <select name="choose" id="choose">
                     <option value="0">0</option>
@@ -132,7 +132,7 @@
             <label>
                 <input type="submit" name="submit" id="submit" value="Играть!" />
             </label>
-        <form/>
+        <form/>-->
 
         <!--Форми метод $_POST-->
         <div style="text-align: center">
